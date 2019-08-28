@@ -1,2 +1,2 @@
-# kaggle-profile
-Link to my Kaggle profile
+# Kaggle Profile
+[Click here to visit my Kaggle Profile!](https://www.kaggle.com/lejimmy)
